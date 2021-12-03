@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+#input-canvas {
+  width: 640px;
+  height: 480px;
+  position: relative;
+}
+
+#overlay-canvas {
+  width: 640px;
+  height: 480px;
+  position: absolute;
+}
+
+#webcam-video{
+  width: 640px;
+  height: 480px;
+  position: absolute;
+}
